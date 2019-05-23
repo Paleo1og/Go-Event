@@ -15,7 +15,7 @@
 ## Установка
 Склонируйте приложение на ваш компьютер
 ```
- git clone https://github.com/Paleo1og/bbq.git
+ git clone https://github.com/Paleo1og/Go-Event.git
 ```
 Установите все гемы, необходимые для работы приложения и выполните миграции базы данных.
 ```
